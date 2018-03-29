@@ -1,0 +1,17 @@
+.navbar-header{
+    margin-left:5px;
+    width:100%;
+  }
+
+.button-player {
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+
+.action-modal-content {
+  background-color: white;
+  border:solid;
+  border-width: 1px;
+  padding-top:1em;
+  padding-bottom:1em;
+}
